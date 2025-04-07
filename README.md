@@ -8,7 +8,7 @@
 - Bootstrap & jQuery contributors
 - Normalize.css by Nicolas Gallagher and Jonathan Neal
 
-If you're taking over this project: Welcome! 😱😱  And goodluck! You need it 😝😝
+**If you're taking over this project: Welcome! 😱😱  And goodluck! You need it 😝😝**
 
 <br/>
 <br/>
