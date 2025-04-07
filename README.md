@@ -28,7 +28,6 @@
 <br/>
 
 **🧪 Sample Code**<br/>
-<br/>
 Here's a quick peek at the script.js setup using JavaScript syntax highlighting:<br/>
 <br/>
 $(document).ready(function() {<br/>
@@ -45,7 +44,7 @@ $(document).ready(function() {<br/>
 <br/>
 
 
-<details><summary>💡Tips for Maintainers</summary></details>
+**<details><summary>💡Tips for Maintainers</summary></details>**
 
 - Use semantic HTML and consistent formatting
 - Push to main and make sure GitHub Pages is enabled in repo settings
